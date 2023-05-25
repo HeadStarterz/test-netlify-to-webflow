@@ -4,7 +4,7 @@ Dorian is a static site generator that converts a website into a static site by 
 
 # The fastest way to get the site up and running
 
-https://app.netlify.com/start/deploy?repository=https%3A%2F%2Fgithub.com%2Fjankocian%2Fwebflow-to-netlify
+https://app.netlify.com/start/deploy?repository=https://github.com/HeadStarterz/test-netlify-to-webflow
 
 # Documentation on how to set up Netlify and Webflow
 
